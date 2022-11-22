@@ -14,7 +14,7 @@ However, modern {{Glossary("JavaScript")}} offers ways to create additional thre
 
 A special type of worker, called a **[service worker](/en-US/docs/Web/API/Service_Worker_API)**, can be created which can be left behind by a site—with the user's permission—to run even when the user isn't currently using that site. This is used to create sites capable of notifying the user when things happen while they're not actively engaged with a site. Such as notifying a user they have received new email even though they're not currently logged into their mail service.
 
-Overall it can be observed these threads within our operating system are extremely helpful. They help minimize the context switching time, enables more efficient communication and allows further use of the multiprocessor architecture.
+Overall it can be observed these threads within our operating system are extremely helpful. They help minimize the context switching time, enable more efficient communication, and allow further use of the multiprocessor architecture.
 
 ## See also
 
